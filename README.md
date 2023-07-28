@@ -1,1 +1,1 @@
-# EncryptionTable
+**This project involves implementing an Encryption Table using the Arduino Uno R3 microcontroller. The encryption table is implemented using two types of coding: inbuilt Arduino functions and register level coding.**
